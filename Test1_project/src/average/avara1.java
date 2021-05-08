@@ -16,7 +16,7 @@ public class avara1{
    a[3]=40;
  
    a[4]=50;
-	    
+	//melke    
    for(int i=0;i<n;i++)
     result=result+a[i];
  	 	    
